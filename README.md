@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Bùi Đỗ Đức Phúc, often going by the alias Machi Voltzmann. I’m currently a student at UIT - VNUHCM, pursuing my degree with a strong focus on Information Technology and Data Engineering. My core interests lie in game development and machine learning (specializing in NLP). Outside of my regular coursework, I dedicate my spare time to architecting and building AI systems.
+Hello! I'm Phuc, often going by the alias Machi Voltzmann. I’m currently a student at UIT - VNUHCM, pursuing my degree with a strong focus on Information Technology and Data Engineering. My core interests lie in game development and machine learning (specializing in NLP). Outside of my regular coursework, I dedicate my spare time to architecting and building AI systems.
 
 
 ## 🌐 Socials:
